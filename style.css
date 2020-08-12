@@ -43,7 +43,7 @@ a:hover {
   color: black;
 }
 
-.fab {
+.fab, .fas {
   font-size: 32px;
 }
 
@@ -56,14 +56,14 @@ a:hover {
   background-color: white;
   border-radius: 4px;
   padding: 30px;
-  margin: 15px;
+  margin: 20px;
   text-align: center;
   box-shadow: 5px 10px 0px rgba(0,0,0,0.1);
 }
 
 #myface-circle {
   width: 100px;
-  border-radius: 40%;
+  border-radius: 12px;
   filter: grayscale(100%);
 }
 
